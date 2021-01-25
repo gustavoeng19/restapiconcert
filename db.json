@@ -1,0 +1,40 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "Yokiro",
+      "Email": "yokiro@yaga.com.br",
+      "Telefone": "(31)91111-8563",
+      "Endereco": "Rua sei lá",
+      "Numero": 123,
+      "Estado": "MG"
+    },
+    {
+      "id": 2,
+      "name": "Yokito",
+      "Email": "yokito@yaga.com.br",
+      "Telefone": "(31)98711-8522",
+      "Endereco": "Rua sei lá",
+      "Numero": 123,
+      "Estado": "RS"
+    },
+    {
+      "id": 3,
+      "name": "Tanaka",
+      "Email": "Tanaka@yaga.com.br",
+      "Telefone": "(31)91145-6363",
+      "Endereco": "Rua sei lá",
+      "Numero": 123,
+      "Estado": "SP"
+    },
+    {
+      "id": 4,
+      "name": "Mariko",
+      "Email": "Mariko@yaga.com.br",
+      "Telefone": "(31)923651-8713",
+      "Endereco": "Rua sei lá",
+      "Numero": 123,
+      "Estado": "RJ"
+    }
+  ]
+}
